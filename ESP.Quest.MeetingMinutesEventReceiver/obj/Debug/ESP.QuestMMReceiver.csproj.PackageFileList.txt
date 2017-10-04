@@ -1,0 +1,1 @@
+bin\Debug\ESP.Quest.MeetingMinutesEventReceiver.wsp

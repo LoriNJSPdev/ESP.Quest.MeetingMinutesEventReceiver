@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f2a7a00b-78b4-45c7-beea-03c26dfc9865" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="ESP.Quest.MeetingMinutesEventReceiver.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ESP.QuestMMReceiver_MMReceiver\Feature.xml" />
+  </FeatureManifests>
+</Solution>

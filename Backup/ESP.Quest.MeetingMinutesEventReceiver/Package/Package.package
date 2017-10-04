@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f2a7a00b-78b4-45c7-beea-03c26dfc9865" solutionId="f2a7a00b-78b4-45c7-beea-03c26dfc9865" resetWebServer="false" name="ESP.Quest.MeetingMinutesEventReceiver" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4bd07df2-3527-47dc-a77d-8199c5175cea" />
+  </features>
+</package>
