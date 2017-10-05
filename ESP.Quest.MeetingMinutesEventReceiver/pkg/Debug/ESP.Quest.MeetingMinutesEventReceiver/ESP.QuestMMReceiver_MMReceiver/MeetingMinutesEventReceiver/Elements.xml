@@ -8,5 +8,12 @@
         <Class>ESP.Quest.MeetingMinutesEventReceiver.MeetingMinutesEventReceiver</Class>
         <SequenceNumber>10000</SequenceNumber>
       </Receiver>
+    <Receiver>
+      <Name>MeetingMinutesEventReceiverItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <Assembly>ESP.Quest.MeetingMinutesEventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=857b0a23fc9087b5</Assembly>
+      <Class>ESP.Quest.MeetingMinutesEventReceiver.MeetingMinutesEventReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
   </Receivers>
 </Elements>

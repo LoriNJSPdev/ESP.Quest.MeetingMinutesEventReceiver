@@ -8,5 +8,12 @@
         <Class>ESP.Quest.MeetingMinutesEventReceiver.MeetingMinutesEventReceiver</Class>
         <SequenceNumber>10000</SequenceNumber>
       </Receiver>
+    <Receiver>
+      <Name>MeetingMinutesEventReceiverItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+      <Class>ESP.Quest.MeetingMinutesEventReceiver.MeetingMinutesEventReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
   </Receivers>
 </Elements>
