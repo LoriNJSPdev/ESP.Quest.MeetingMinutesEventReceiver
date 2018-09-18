@@ -29,7 +29,7 @@ namespace ESP.Quest.MeetingMinutesEventReceiver
 
                
               
-                ContractsInfoEntities context = new ContractsInfoEntities();
+                ContractsInfoEntities1 context = new ContractsInfoEntities1();
                 
 
                 //get value of Meeing Type
@@ -234,7 +234,7 @@ namespace ESP.Quest.MeetingMinutesEventReceiver
 
 
 
-                ContractsInfoEntities context = new ContractsInfoEntities();
+                ContractsInfoEntities1 context = new ContractsInfoEntities1();
 
 
                 //get value of Meeing Type

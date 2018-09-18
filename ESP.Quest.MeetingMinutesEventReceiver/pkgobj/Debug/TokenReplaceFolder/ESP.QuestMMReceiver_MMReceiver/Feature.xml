@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="febdd7e3-7870-41b0-8e13-ae0f67e2d8f0" Scope="Web" Title="ESP.Quest.MMReceiver">
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ESP.Quest.MMReceiver" Id="febdd7e3-7870-41b0-8e13-ae0f67e2d8f0" Scope="Web">
   <ElementManifests>
     <ElementManifest Location="MeetingMinutesEventReceiver\Elements.xml" />
   </ElementManifests>

@@ -1,6 +1,6 @@
 ﻿
 using System;
-using System.Data.Objects;
+using System.Data.Entity.Core.Objects;
 using System.Web;
 public static class ContextHelper<T> where T : ObjectContext, new()
 {   

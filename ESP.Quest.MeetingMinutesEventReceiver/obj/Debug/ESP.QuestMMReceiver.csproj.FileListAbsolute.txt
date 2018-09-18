@@ -81,8 +81,11 @@ D:\GitHub\SP-Custom-Apps\CP ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.Meet
 D:\GitHub\SP-Custom-Apps\CP ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
 D:\GitHub\SP-Custom-Apps\CP ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\obj\Debug\ESP.Quest.MeetingMinutesEventReceiver.dll
 D:\GitHub\SP-Custom-Apps\CP ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\obj\Debug\ESP.Quest.MeetingMinutesEventReceiver.pdb
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\ESP.Quest.MeetingMinutesEventReceiver.dll.config
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\ESP.Quest.MeetingMinutesEventReceiver.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\ESP.Quest.MeetingMinutesEventReceiver.pdb
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\EntityFramework.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\EntityFramework.SqlServer.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\ESPContractsInfoDataAccess.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.WorkflowActions.dll
@@ -96,26 +99,31 @@ D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventRec
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Data.OData.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\System.Spatial.dll
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.dll
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.Applications.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Portal.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Publishing.dll
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.Applications.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.mshtml.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.Connector.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.Search.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Excel.Server.WebServices.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.DocumentManagement.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Policy.dll
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Excel.Server.Udf.dll
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\EntityFramework.xml
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\ESPContractsInfoDataAccess.pdb
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.WorkflowActions.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.BusinessData.xml
@@ -125,13 +133,13 @@ D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventRec
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Data.OData.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.UserProfiles.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\System.Spatial.xml
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.xml
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Taxonomy.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.xml
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Taxonomy.xml
+D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Portal.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.SharePoint.Publishing.xml
-D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.UserProfiles.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Server.Search.Connector.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.DocumentManagement.xml
 D:\GitHub\ESP.Quest.MeetingMinutesEventReceiver\ESP.Quest.MeetingMinutesEventReceiver\bin\Debug\Microsoft.Office.Policy.xml

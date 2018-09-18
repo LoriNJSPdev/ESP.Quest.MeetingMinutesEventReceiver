@@ -66,15 +66,23 @@
     <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="ESPContractsInfoDataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=055ae6f648b13d9d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>lib\ESPContractsInfoDataAccess.dll</HintPath>
+      <HintPath>..\..\ESPPMOContractDisplay\ESPContractsInfoDataAccess\bin\Debug\ESPContractsInfoDataAccess.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.SharePoint.WorkflowActions, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
@@ -88,6 +96,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="Features\MMReceiver\MMReceiver.feature">
       <FeatureId>{4bd07df2-3527-47dc-a77d-8199c5175cea}</FeatureId>
     </None>
@@ -95,6 +104,7 @@
     <None Include="MeetingMinutesEventReceiver\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{35ea1c90-f511-4b9e-9d90-b73e964cf6d7}</SharePointProjectItemId>
     </None>
+    <None Include="packages.config" />
     <None Include="Package\Package.package">
       <PackageId>{f2a7a00b-78b4-45c7-beea-03c26dfc9865}</PackageId>
     </None>
